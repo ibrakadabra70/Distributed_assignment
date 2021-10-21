@@ -1,0 +1,2 @@
+Hello, this is a message file to be sent from the server to the client.
+Have a nice day.
